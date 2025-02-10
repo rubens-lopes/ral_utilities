@@ -2,6 +2,16 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GuidFormatter", "GuidFormatter\GuidFormatter.csproj", "{944861A4-E719-4448-9F53-3BE5B430E0ED}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution", "Solution", "{7FA5B334-5037-4D3A-A694-5A8384B81140}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SessentaTrintaDez", "SessentaTrintaDez", "{4A7FA814-2B9E-4DD0-9A08-EA8CC25C0E52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
